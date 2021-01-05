@@ -153,6 +153,12 @@ body {
     bottom: 12%;
 }
 
+@media (max-width: 1400px) {
+    body{
+        height: 800px;
+    }
+}
+
 @media (max-width: 1024px) {
     
     .container {
